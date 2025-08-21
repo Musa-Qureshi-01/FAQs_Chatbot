@@ -24,3 +24,6 @@ if question:
     #     st.subheader("Internal Model Work.")
     #     st.write(result)
 
+
+
+st.text("Made by ©️ Musa Qureshi. Ⓜ️")
